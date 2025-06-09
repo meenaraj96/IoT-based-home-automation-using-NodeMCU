@@ -10,8 +10,8 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char ssid[] = "Meena_Samsung";
-char pass[] = "PER24@68fect";
+char ssid[] = "";
+char pass[] = "";
 
 BLYNK_WRITE(V0)
 {
